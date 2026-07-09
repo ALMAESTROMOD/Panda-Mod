@@ -1,0 +1,22 @@
+{
+  "app_status": "ACTIVE",
+  "app_version": "1.0.0",
+  "min_required_version": "1.0.0",
+  "maintenance_message": "⚠️ النظام حالياً تحت الصيانة لتحسين الأداء. سنعود قريباً!",
+  "emergency_message": "🚫 تم إيقاف النظام مؤقتاً لوجود مشكلة تقنية حرجة. يرجى الانتظار.",
+  "update_url": "https://example.com/update",
+  "library_url": "https://github.com/ALMAESTROMOD/Panda-Mod/raw/refs/heads/main/libPANDA.so",
+  "library_name": "libPANDA.so",
+  "welcome_message": {
+    "title": "🎉 مرحباً بك في الإصدار الجديد!",
+    "content": "تم إضافة المميزات التالية:\n✅ نظام تحميل أسرع بـ 50%\n✅ واجهة مستخدم نيون عصرية\n✅ تحسين استقرار الاتصال\n✅ حل مشكلة الكراش في بعض الأجهزة",
+    "priority": "HIGH"
+  },
+  "tips": [
+    "💡 هل تعلم؟ تنظيم وقتك يزيد من أدائك!",
+    "🎮 اربط عملك باللعب واستمتع بالإنتاجية!",
+    "⚡ السرعة والكفاءة هما مفتاح النجاح!",
+    "🚀 كل لحظة تحسب نحو هدفك!",
+    "🎯 الالتزام والمثابرة يحققان الأحلام!"
+  ]
+}
