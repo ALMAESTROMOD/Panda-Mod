@@ -3,10 +3,14 @@
   "theme_color": "#00D9FF",
   "library_url": "https://github.com/ALMAESTROMOD/Panda-Mod/raw/refs/heads/main/libPANDA.so",
   "library_name": "libPANDA.so",
-  "maintenance_message": "SYSTEM UNDER MAINTENANCE. PLEASE STAND BY.",
-  "emergency_message": "CRITICAL SYSTEM FAILURE. ACCESS DENIED.",
+  "maintenance_ar": "⚠️ النظام تحت الصيانة حالياً. سنعود قريباً!",
+  "maintenance_en": "⚠️ System is under maintenance. We will be back soon!",
+  "emergency_ar": "🚫 مشكلة تقنية حرجة! تم إيقاف الوصول مؤقتاً.",
+  "emergency_en": "🚫 Critical technical issue! Access is temporarily disabled.",
   "welcome_message": {
-    "title": "ELITE SYSTEM LOADED",
-    "content": "New Modules:\n- Cyberpunk UI Interface\n- Ultra-Sleek Progress Sync\n- Multi-Language Engine\n- Remote Theme Control"
+    "title_ar": "🚀 النظام جاهز للعمل",
+    "title_en": "🚀 SYSTEM READY",
+    "content_ar": "✅ واجهة نيون عصرية\n✅ دعم تلقائي للغة العربية\n✅ تحميل سريع ومستقر\n✅ تحكم كامل عن بعد",
+    "content_en": "✅ Sleek Neon UI\n✅ Auto-Language Support\n✅ Fast & Stable Download\n✅ Full Remote Control"
   }
 }
