@@ -1,16 +1,46 @@
 {
-  "app_status": "EMERGENCY",
+  "app_status": "ACTIVE",
+
   "theme_color": "#00D9FF",
+
   "library_url": "https://github.com/ALMAESTROMOD/Panda-Mod/raw/refs/heads/main/libPANDA.so",
   "library_name": "libPANDA.so",
+
+  "library_sha256": "",
+  "config_backup": "",
+  "retry_count": 3,
+  "retry_delay": 2000,
+
+  "min_version": "4.5",
+  "latest_version": "4.5",
+  "update_url": "",
+
+  "popup": false,
+  "popup_title_ar": "",
+  "popup_title_en": "",
+  "popup_message_ar": "",
+  "popup_message_en": "",
+
+  "maintenance_until": "",
+
   "maintenance_ar": "⚠️ النظام تحت الصيانة حالياً. سنعود قريباً!",
   "maintenance_en": "⚠️ System is under maintenance. We will be back soon!",
+
   "emergency_ar": "🚫 مشكلة تقنية حرجة! تم إيقاف الوصول مؤقتاً.",
   "emergency_en": "🚫 Critical technical issue! Access is temporarily disabled.",
+
+  "update_ar": "🚀 يتوفر إصدار جديد من التطبيق.\nيرجى التحديث للاستمرار.",
+  "update_en": "🚀 A new version is available.\nPlease update to continue.",
+
+  "disabled_ar": "⛔ تم تعطيل التطبيق مؤقتاً.",
+  "disabled_en": "⛔ The application has been temporarily disabled.",
+
   "welcome_message": {
-    "title_ar": "🚀 تحديث جديد4.5",
+    "title_ar": "🚀 تحديث جديد 4.5",
     "title_en": "🚀 New Update 4.5",
-    "content_ar": "✅ تحديث نظام الحماية\n✅ حل مشكلة الكراش\n✅ حل جميع مشاكل الباند\n✅ يرجى اللعب بسيف لتجنب البلاغات",
-  "content_en": "✅ Security System Updated\n✅ Fixed Crash Issues\n✅ Fixed All Ban Issues\n✅ Please Play Safely to Avoid Reports"
+
+    "content_ar": "✅ تحديث نظام الحماية\n✅ حل مشكلة الكراش\n✅ تحسين الاستقرار\n✅ يرجى اللعب بحذر لتجنب البلاغات",
+
+    "content_en": "✅ Security System Updated\n✅ Fixed Crash Issues\n✅ Improved Stability\n✅ Please Play Safely to Avoid Reports"
   }
 }
