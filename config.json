@@ -1,5 +1,7 @@
 {
-  "app_status": "EMERGENCY",
+{
+  "app_status": "ACTIVE",
+
   "theme_color": "#00D9FF",
 
   "library_url": "https://github.com/ALMAESTROMOD/Panda-Mod/raw/refs/heads/main/libPANDA.so",
@@ -11,12 +13,13 @@
   "emergency_ar": "🚫 مشكلة تقنية حرجة! تم إيقاف الوصول مؤقتاً.",
   "emergency_en": "🚫 Critical technical issue! Access is temporarily disabled.",
 
-  "news": {
+  "online_message": {
     "enabled": false,
-    "version": 1,
-    "title_ar": "📢 إعلان",
-    "title_en": "📢 Announcement",
-    "content_ar": "مرحبًا بك في Panda Mod.",
+
+    "title_ar": "📢 تنويه",
+    "title_en": "📢 Notice",
+
+    "content_ar": "مرحباً بك في Panda Mod.",
     "content_en": "Welcome to Panda Mod."
   },
 
@@ -24,8 +27,4 @@
     "title_ar": "🚀 تحديث جديد 4.5",
     "title_en": "🚀 New Update 4.5",
 
-    "content_ar": "✅ تحديث نظام الحماية\n✅ حل مشكلة الكراش\n✅ حل جميع مشاكل الباند\n✅ يرجى اللعب بسيف لتجنب البلاغات",
-
-    "content_en": "✅ Security System Updated\n✅ Fixed Crash Issues\n✅ Fixed All Ban Issues\n✅ Please Play Safely to Avoid Reports"
-  }
-}
+    "content_ar": "✅ تحديث نظام الحماية\n✅ حل مشكلة الكراش\n✅ حل جميع مشاكل الباند\n✅ يرجى اللعب بحذر لتجنب البل
